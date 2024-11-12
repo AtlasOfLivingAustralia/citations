@@ -1,0 +1,3 @@
+[submodule "ala-labs"]
+	path = ala-labs
+	url = https://github.com/AtlasOfLivingAustralia/ala-labs.git
