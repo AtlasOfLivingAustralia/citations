@@ -1,0 +1,26 @@
+{
+  "name": "citations",
+  "version": "1.0.0",
+  "description": "Generated static page with ALA-cited publications data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtlasOfLivingAustralia/citations.git"
+  },
+  "author": "ALA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtlasOfLivingAustralia/citations/issues"
+  },
+  "homepage": "https://github.com/AtlasOfLivingAustralia/citations#readme",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-autoprefixer": "^9.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-replace": "^1.1.4",
+    "gulp-debug": "^5.0.1"
+  }
+}
