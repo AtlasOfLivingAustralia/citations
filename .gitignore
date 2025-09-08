@@ -5,3 +5,4 @@ build/*
 buildvars.js
 .DS_Store
 working/*
+source/html/main.html
